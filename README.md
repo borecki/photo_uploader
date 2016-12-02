@@ -1,12 +1,8 @@
 # Picture Uploader
 Upload your photo.
-#### Please! Test the application functionality, but do not upload too many images in live preview. Thank you.
-
 ```diff
 - Please! Test the application functionality, but do not upload too many images in live preview. Thank you.
 ```
-
-
 ## Demo
 <a href="https://borecki.github.io/drawer/">live priview available here</a>
 
