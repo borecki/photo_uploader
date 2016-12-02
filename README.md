@@ -4,7 +4,7 @@ Upload your photo. It's simple!
 - Please! Test the application functionality, but do not upload too many images in live preview. Thank you.
 ```
 ## Demo
-<a href="http://test17082.futurehost.pl/img-uploader/index.html/">live priview available here</a>
+<a href="http://test17082.futurehost.pl/img-uploader/index.html">live priview available here</a>
 
 #### Used to make this:
 * HTML5
