@@ -3,7 +3,7 @@ Upload your photo.
 #### Please! Test the application functionality, but do not upload too many images in live preview. Thank you.
 
 ```diff
-+ this will be highlighted in green
+
 - this will be highlighted in red
 ```
 
